@@ -4,7 +4,7 @@ const Cardrow = () => {
 
     return (
         <>
-            <div className="d-flex">
+            <div className="d-flex justify-content-center">
                 <Card />
                 <Card />
                 <Card />
